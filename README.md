@@ -1,7 +1,5 @@
 # Agent OS
 
-**Oma kunnianhimoinen ja vielä hyvin keskeneräinen agenttityötila.**
-
 Rakennan Agent OS:ää tutkiakseni, miten kielimalli, paikalliset työkalut ja pitkäkestoisen työn ohjaus voidaan yhdistää samaan sovellukseen. Tavoitteena on työtila, jossa agentti pystyy tekemään konkreettisia tehtäviä ja käyttäjä voi seurata, hyväksyä ja ohjata sen toimintaa.
 
 Tämä repositorio esittelee projektin rakennetta ja yhtä toimivaa työnäytettä. Sovelluksen lähdekoodi ei sisälly tähän portfolioesittelyyn.
