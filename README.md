@@ -38,3 +38,5 @@ Suomenkielinen koeajo tehtiin **8.10.2026** oikealla **DeepSeek-mallilla OpenRou
 ## Projektin vaihe
 
 Agenttiputkesta on jo toimiva, rajattu työnäyte. Käyttöliittymän viimeistely, eri toimintojen kokonaisintegraatio, laaja aliagenttiohjaus ja muut tiekartan osat ovat edelleen kesken. Tämä on oman projektin kehitysvaiheen esittely: yksittäinen onnistunut ajo ei vielä osoita koko järjestelmän luotettavuutta tai tuotantovalmiutta.
+
+Tekoälyn käyttö: Projektia kehitetään tekoälyavusteisesti. Codex auttoi myös tämän esittelyn tekstin, arkkitehtuurikaavion ja koeajon dokumentoinnin laatimisessa. Kyseessä on oma projektini, jonka kehitystä ohjaan.
